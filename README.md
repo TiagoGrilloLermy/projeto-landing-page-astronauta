@@ -11,7 +11,7 @@
 
 ## Descrição
 
-O objetivo deste projeto foi explorar as técnicas de desenvolvimento de uma aplicação web responsiva. Ao longo das aulas, aprendemos como utilizar o HTML e o CSS para criar uma interface que se adapte de forma adequada a diferentes tamanhos de tela.
+Utilizei as tecnologias HTML e CSS, focando especialmente no uso do HTML semântico. Essa experiência não apenas me permitiu praticar e aperfeiçoar minhas habilidades técnicas, mas também me desafiou a adaptar a página para garantir uma experiência perfeita em minha tela
 
 ## Autores
 
